@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 This is a sample web project, deployment can be on any web server.
 
 ## How to contribute
+
+This is an example for contibution 
